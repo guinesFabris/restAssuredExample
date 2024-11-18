@@ -7,3 +7,4 @@ Feature: Testar funcionalidade de login
     Given que o usuário está na página de login
     When o usuário insere o username "user123" e o password "senha123"
     Then o login é realizado com sucesso
+
